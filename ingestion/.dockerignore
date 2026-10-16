@@ -1,0 +1,13 @@
+# Cache di Python
+__pycache__/
+*.pyc
+
+# Segreti: non devono mai finire in un'immagine
+.env
+
+# Dati prodotti dallo script
+data/
+
+# File di sistema e di Git
+.DS_Store
+.git
